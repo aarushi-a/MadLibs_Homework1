@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MadLibs_Homework1</string>
+    <string name="button_start">Get Started!</string>
+    <string name = "second_activity">Mad Libs</string>
+</resources>
